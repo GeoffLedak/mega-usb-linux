@@ -1,0 +1,4 @@
+/home/turbo-kubuntu/mega-usb/obj/Release/net8.0/mega-usb.GeneratedMSBuildEditorConfig.editorconfig
+/home/turbo-kubuntu/mega-usb/obj/Release/net8.0/mega-usb.AssemblyInfoInputs.cache
+/home/turbo-kubuntu/mega-usb/obj/Release/net8.0/mega-usb.AssemblyInfo.cs
+/home/turbo-kubuntu/mega-usb/obj/Release/net8.0/mega-usb.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+/home/turbo-kubuntu/mega-usb/bin/Release/net8.0/linux-x64/publish/mega-usb.pdb
+/home/turbo-kubuntu/mega-usb/bin/Release/net8.0/linux-x64/publish/libSystem.IO.Ports.Native.so
+/home/turbo-kubuntu/mega-usb/bin/Release/net8.0/linux-x64/publish/mega-usb
